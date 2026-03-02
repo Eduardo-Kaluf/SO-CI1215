@@ -1,6 +1,6 @@
 # SO-CI1215
 
-## Carlos A. Maziero
+## Teacher: Carlos A. Maziero
 
 This repository will contain every assignment from Operational Systems class.
 
